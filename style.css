@@ -1,0 +1,14 @@
+#box{
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    /* align-items: center; */
+    font-weight: bold;
+    font-size: 2em;
+    background-image: url(demon.png) ,url(d2.png),url(d3.png);
+    background-position: left,right,center;
+    background-repeat: no-repeat;
+}
+#time{
+    color: white;
+}
